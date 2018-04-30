@@ -32,7 +32,7 @@ class ExampleComponent extends Component {
 }
 ```
 
-#Customized elements
+# Customized elements
 
 ```javascript
 
